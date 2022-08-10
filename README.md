@@ -15,6 +15,17 @@ If you forget to add the menu. You are in nano.
 
 correct `git commit -m "Initial commit"`
 
+Another ways to add and commit at the same time. 
+`git commit -am "Add message here"`
+
+## To revert changes
+1. `git log`
+2. `git reset`
+Example: `git reset HEAD-1`
+permeanant reset `git reset --hard HEAD-1`
+
+
+
 
 
 
