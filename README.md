@@ -8,5 +8,12 @@ This is a test for my first repository
 
 2. `git add` 
 
+3. `git commit`
+If you forget to add the menu. You are in nano. 
+
+correct `git commit -m "Initial commit"`
+
+
+
 
 
